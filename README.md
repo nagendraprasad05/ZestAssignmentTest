@@ -1,5 +1,4 @@
-# Zest Assignment Test
-here's my (B Nagendra Prasad) Zest Assignment Test
+# Zest Assignment Test - B Nagendra Prasad
 
 hi , i have done the first assignment(comparing iphone price on amazon and flipkart).
 
